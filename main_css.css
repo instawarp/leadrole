@@ -15,7 +15,7 @@ body{
 
 .warpbutton{
     width:80%;
-    height:20%;
+    height:15%;
     border-radius: 20%;
     margin-bottom: 3%;
     color: mediumpurple;
@@ -28,7 +28,7 @@ body{
     width:40%;
     overflow: hidden;
     margin:auto;
-    margin-top: 5%;
+    margin-top: 10%;
     border: 3px solid mediumpurple;
 }
 
